@@ -39,7 +39,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 //  es = Español      id = Bahasa Indonesia       ar = عرب
 //  en = English      pt = Português              de = Deutsch
 //  it = Italiano
-global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
+global.lenguajeGB = es   //<-- Predeterminado en idioma Español 
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
